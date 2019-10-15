@@ -72,7 +72,7 @@
                     </div><!-- End .row -->
 
                     <div class="footer-bottom">
-                        <img src="{{asset('')}}assets/images/payments.png" alt="payment methods" class="footer-payments">
+                        <img src="assets/images/payments.png" alt="payment methods" class="footer-payments">
                         <p class="footer-copyright">2018 &copy; Copyright<br> All Rights Reserved.</p>
 
                         <div class="social-icons">
@@ -187,9 +187,9 @@
 </div>
 <!-- End .mobile-menu-container -->
 
-{{--  <div class="newsletter-popup mfp-hide" id="newsletter-popup-form" style="background-image: url({{asset('')}}assets/images/newsletter_popup_bg.jpg)">
+{{--  <div class="newsletter-popup mfp-hide" id="newsletter-popup-form" style="background-image: url(assets/images/newsletter_popup_bg.jpg)">
     <div class="newsletter-popup-content">
-        <img src="{{asset('')}}assets/images/logo-black.png" alt="Logo" class="logo-newsletter">
+        <img src="assets/images/logo-black.png" alt="Logo" class="logo-newsletter">
         <h2>BE THE FIRST TO KNOW</h2>
         <p>Subscribe to the Porto eCommerce newsletter to receive timely updates from your favorite products.</p>
         <form action="#">
@@ -214,12 +214,12 @@
 <a id="scroll-top" href="#top" title="Top" role="button"><i class="icon-angle-up"></i></a>
 
 <!-- Plugins JS File -->
-<script src="{{asset('')}}assets/js/jquery.min.js"></script>
-<script src="{{asset('')}}assets/js/bootstrap.bundle.min.js"></script>
-<script src="{{asset('')}}assets/js/plugins.min.js"></script>
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/bootstrap.bundle.min.js"></script>
+<script src="assets/js/plugins.min.js"></script>
 
 <!-- Main JS File -->
-<script src="{{asset('')}}assets/js/main.min.js"></script>
+<script src="assets/js/main.min.js"></script>
 </body>
 </html>
 

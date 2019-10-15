@@ -4,7 +4,7 @@
     <div class="home-slider-container">
         <div class="home-slider owl-carousel owl-theme owl-theme-light">
             <div class="home-slide">
-                <div class="slide-bg owl-lazy" data-src="{{asset('')}}assets/images/slider/slide-1.jpg" style="background-position:32% center;"></div><!-- End .slide-bg -->
+                <div class="slide-bg owl-lazy" data-src="assets/images/slider/slide-1.jpg" style="background-position:32% center;"></div><!-- End .slide-bg -->
                 <div class="container">
                     <div class="row">
                         <div class="col-md-5 offset-md-7">
@@ -23,7 +23,7 @@
             </div><!-- End .home-slide -->
 
             <div class="home-slide">
-                <div class="slide-bg owl-lazy" data-src="{{asset('')}}assets/images/slider/slide-2.jpg" style="background-position:64% center;"></div><!-- End .slide-bg -->
+                <div class="slide-bg owl-lazy" data-src="assets/images/slider/slide-2.jpg" style="background-position:64% center;"></div><!-- End .slide-bg -->
                 <div class="container">
                     <div class="row">
                         <div class="col-md-5 offset-md-1">
@@ -54,7 +54,7 @@
                             <a href="category.html" class="btn">MUA NGAY</a>
                         </div><!-- End .banner-content -->
                         <a href="#">
-                            <img src="{{asset('')}}assets/images/banners/banner-1.jpg" alt="banner">
+                            <img src="assets/images/banners/banner-1.jpg" alt="banner">
                         </a>
                     </div><!-- End .banner -->
                 </div><!-- End .col-md-4 -->
@@ -66,7 +66,7 @@
                             <a href="category.html" class="btn">MUA NGAY</a>
                         </div><!-- End .banner-content -->
                         <a href="#">
-                            <img src="{{asset('')}}assets/images/banners/banner-2.jpg" alt="banner">
+                            <img src="assets/images/banners/banner-2.jpg" alt="banner">
                         </a>
                     </div><!-- End .banner -->
                 </div><!-- End .col-md-4 -->
@@ -78,7 +78,7 @@
                             <a href="category.html" class="btn">MUA NGAY</a>
                         </div><!-- End .banner-content -->
                         <a href="#">
-                            <img src="{{asset('')}}assets/images/banners/banner-3.jpg" alt="banner">
+                            <img src="assets/images/banners/banner-3.jpg" alt="banner">
                         </a>
                     </div><!-- End .banner -->
                 </div><!-- End .col-md-4 -->
@@ -92,8 +92,8 @@
             <div class="product">
                 <figure class="product-image-container">
                     <a href="product.html" class="product-image">
-                        <img src="{{asset('')}}assets/images/products/product-1.jpg" alt="product">
-                        <img src="{{asset('')}}assets/images/products/product-1-2.jpg" class="hover-image" alt="product">
+                        <img src="assets/images/products/product-1.jpg" alt="product">
+                        <img src="assets/images/products/product-1-2.jpg" class="hover-image" alt="product">
                     </a>
                     <a href="ajax/product-quick-view.html" class="btn-quickview" title="Chi Tiết"><span>Chi Tiết</span></a>
                     <span class="product-label label-sale">-20%</span>
@@ -128,8 +128,8 @@
             <div class="product">
                 <figure class="product-image-container">
                     <a href="product.html" class="product-image">
-                        <img src="{{asset('')}}assets/images/products/product-6.jpg" alt="product">
-                        <img src="{{asset('')}}assets/images/products/product-6-2.jpg" class="hover-image" alt="product">
+                        <img src="assets/images/products/product-6.jpg" alt="product">
+                        <img src="assets/images/products/product-6-2.jpg" class="hover-image" alt="product">
                     </a>
                     <a href="ajax/product-quick-view.html" class="btn-quickview" title="Chi Tiết"><span>Chi Tiết</span></a>
                 </figure>
@@ -162,8 +162,8 @@
             <div class="product">
                 <figure class="product-image-container">
                     <a href="product.html" class="product-image">
-                        <img src="{{asset('')}}assets/images/products/product-2.jpg" alt="product">
-                        <img src="{{asset('')}}assets/images/products/product-2-2.jpg" class="hover-image" alt="product">
+                        <img src="assets/images/products/product-2.jpg" alt="product">
+                        <img src="assets/images/products/product-2-2.jpg" class="hover-image" alt="product">
                     </a>
                     <a href="ajax/product-quick-view.html" class="btn-quickview" title="Chi Tiết"><span>Chi Tiết</span></a>
                     <span class="product-label label-hot">Hot</span>
@@ -198,8 +198,8 @@
             <div class="product">
                 <figure class="product-image-container">
                     <a href="product.html" class="product-image">
-                        <img src="{{asset('')}}assets/images/products/product-11.jpg" alt="product">
-                        <img src="{{asset('')}}assets/images/products/product-11-2.jpg" class="hover-image" alt="product">
+                        <img src="assets/images/products/product-11.jpg" alt="product">
+                        <img src="assets/images/products/product-11-2.jpg" class="hover-image" alt="product">
                     </a>
                     <a href="ajax/product-quick-view.html" class="btn-quickview" title="Chi Tiết"><span>Chi Tiết</span></a>
                 </figure>
@@ -233,8 +233,8 @@
             <div class="product">
                 <figure class="product-image-container">
                     <a href="product.html" class="product-image">
-                        <img src="{{asset('')}}assets/images/products/product-5.jpg" alt="product">
-                        <img src="{{asset('')}}assets/images/products/product-5-2.jpg" class="hover-image" alt="product">
+                        <img src="assets/images/products/product-5.jpg" alt="product">
+                        <img src="assets/images/products/product-5-2.jpg" class="hover-image" alt="product">
                     </a>
                     <a href="ajax/product-quick-view.html" class="btn-quickview" title="Chi Tiết"><span>Chi Tiết</span></a>
                 </figure>
@@ -267,8 +267,8 @@
             <div class="product">
                 <figure class="product-image-container">
                     <a href="product.html" class="product-image">
-                        <img src="{{asset('')}}assets/images/products/product-13.jpg" alt="product">
-                        <img src="{{asset('')}}assets/images/products/product-13-2.jpg" class="hover-image" alt="product">
+                        <img src="assets/images/products/product-13.jpg" alt="product">
+                        <img src="assets/images/products/product-13-2.jpg" class="hover-image" alt="product">
                     </a>
                     <a href="ajax/product-quick-view.html" class="btn-quickview" title="Chi Tiết"><span>Chi Tiết</span></a>
                     <span class="product-label label-sale">-20%</span>
@@ -302,7 +302,7 @@
         </div><!-- End .featured-products -->
     </div><!-- End .container -->
 
-    <div class="promo-section" style="background-image: url({{asset('')}}assets/images/promo-bg.jpg)">
+    <div class="promo-section" style="background-image: url(assets/images/promo-bg.jpg)">
         <div class="container">
             <div class="container">
                 <div class="row">
@@ -330,8 +330,8 @@
             <div class="product">
                 <figure class="product-image-container">
                     <a href="product.html" class="product-image">
-                        <img src="{{asset('')}}assets/images/products/sunglasses/product-1.jpg" alt="product">
-                        <img src="{{asset('')}}assets/images/products/sunglasses/product-1-2.jpg" class="hover-image" alt="product">
+                        <img src="assets/images/products/sunglasses/product-1.jpg" alt="product">
+                        <img src="assets/images/products/sunglasses/product-1-2.jpg" class="hover-image" alt="product">
                     </a>
                     <a href="ajax/product-quick-view.html" class="btn-quickview" title="Chi Tiết"><span>Chi Tiết</span></a>
                 </figure>
@@ -365,8 +365,8 @@
             <div class="product">
                 <figure class="product-image-container">
                     <a href="product.html" class="product-image">
-                        <img src="{{asset('')}}assets/images/products/sunglasses/product-2.jpg" alt="product">
-                        <img src="{{asset('')}}assets/images/products/sunglasses/product-2-2.jpg" class="hover-image" alt="product">
+                        <img src="assets/images/products/sunglasses/product-2.jpg" alt="product">
+                        <img src="assets/images/products/sunglasses/product-2-2.jpg" class="hover-image" alt="product">
                     </a>
                     <a href="ajax/product-quick-view.html" class="btn-quickview" title="Chi Tiết"><span>Chi Tiết</span></a>
                     <span class="product-label label-sale">-20%</span>
@@ -400,8 +400,8 @@
             <div class="product">
                 <figure class="product-image-container">
                     <a href="product.html" class="product-image">
-                        <img src="{{asset('')}}assets/images/products/sunglasses/product-3.jpg" alt="product">
-                        <img src="{{asset('')}}assets/images/products/sunglasses/product-3-2.jpg" class="hover-image" alt="product">
+                        <img src="assets/images/products/sunglasses/product-3.jpg" alt="product">
+                        <img src="assets/images/products/sunglasses/product-3-2.jpg" class="hover-image" alt="product">
                     </a>
                     <a href="ajax/product-quick-view.html" class="btn-quickview" title="Chi Tiết"><span>Chi Tiết</span></a>
                     <span class="product-label label-hot">Hot</span>
@@ -436,8 +436,8 @@
             <div class="product">
                 <figure class="product-image-container">
                     <a href="product.html" class="product-image">
-                        <img src="{{asset('')}}assets/images/products/sunglasses/product-4.jpg" alt="product">
-                        <img src="{{asset('')}}assets/images/products/sunglasses/product-4-2.jpg" class="hover-image" alt="product">
+                        <img src="assets/images/products/sunglasses/product-4.jpg" alt="product">
+                        <img src="assets/images/products/sunglasses/product-4-2.jpg" class="hover-image" alt="product">
                     </a>
                     <a href="ajax/product-quick-view.html" class="btn-quickview" title="Chi Tiết"><span>Chi Tiết</span></a>
                 </figure>
@@ -471,8 +471,8 @@
             <div class="product">
                 <figure class="product-image-container">
                     <a href="product.html" class="product-image">
-                        <img src="{{asset('')}}assets/images/products/sunglasses/product-5.jpg" alt="product">
-                        <img src="{{asset('')}}assets/images/products/sunglasses/product-5-2.jpg" class="hover-image" alt="product">
+                        <img src="assets/images/products/sunglasses/product-5.jpg" alt="product">
+                        <img src="assets/images/products/sunglasses/product-5-2.jpg" class="hover-image" alt="product">
                     </a>
                     <a href="ajax/product-quick-view.html" class="btn-quickview" title="Chi Tiết"><span>Chi Tiết</span></a>
                 </figure>
@@ -505,8 +505,8 @@
             <div class="product">
                 <figure class="product-image-container">
                     <a href="product.html" class="product-image">
-                        <img src="{{asset('')}}assets/images/products/sunglasses/product-6.jpg" alt="product">
-                        <img src="{{asset('')}}assets/images/products/sunglasses/product-6-2.jpg" class="hover-image" alt="product">
+                        <img src="assets/images/products/sunglasses/product-6.jpg" alt="product">
+                        <img src="assets/images/products/sunglasses/product-6-2.jpg" class="hover-image" alt="product">
                     </a>
                     <a href="ajax/product-quick-view.html" class="btn-quickview" title="Chi Tiết"><span>Chi Tiết</span></a>
                     <span class="product-label label-sale">-20%</span>
@@ -548,7 +548,7 @@
                 <article class="entry">
                     <div class="entry-media">
                         <a href="single.html">
-                            <img src="{{asset('')}}assets/images/blog/home/post-1.jpg" alt="Post">
+                            <img src="assets/images/blog/home/post-1.jpg" alt="Post">
                         </a>
                     </div><!-- End .entry-media -->
 
@@ -568,7 +568,7 @@
                 <article class="entry">
                     <div class="entry-media">
                         <a href="single.html">
-                            <img src="{{asset('')}}assets/images/blog/home/post-2.jpg" alt="Post">
+                            <img src="assets/images/blog/home/post-2.jpg" alt="Post">
                         </a>
                     </div><!-- End .entry-media -->
 
@@ -588,7 +588,7 @@
                 <article class="entry">
                     <div class="entry-media">
                         <a href="single.html">
-                            <img src="{{asset('')}}assets/images/blog/home/post-3.jpg" alt="Post">
+                            <img src="assets/images/blog/home/post-3.jpg" alt="Post">
                         </a>
                     </div><!-- End .entry-media -->
 

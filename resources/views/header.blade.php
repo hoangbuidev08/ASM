@@ -5,7 +5,7 @@
         <div class="container">
             <div class="header-left">
                 <a href="index-2.html" class="logo">
-                    <img src="{{asset('')}}assets/images/logo.png" alt="Buzz Shop Logo">
+                    <img src="assets/images/logo.png" alt="Buzz Shop Logo">
                 </a>
             </div><!-- End .header-left -->
 
@@ -79,7 +79,7 @@
                                         <div class="col-lg-4">
                                             <div class="banner">
                                                 <a href="#">
-                                                    <img src="{{asset('')}}assets/images/menu-banner-2.jpg" alt="Menu banner">
+                                                    <img src="assets/images/menu-banner-2.jpg" alt="Menu banner">
                                                 </a>
                                             </div><!-- End .banner -->
                                         </div><!-- End .col-lg-4 -->
@@ -135,7 +135,7 @@
                                     <div class="product">
                                         <figure class="product-image-container">
                                             <a href="product.html" class="product-image">
-                                                <img src="{{asset('')}}assets/images/products/cart/product-1.jpg" alt="product">
+                                                <img src="assets/images/products/cart/product-1.jpg" alt="product">
                                             </a>
                                         </figure>
 
@@ -156,7 +156,7 @@
                                     <div class="product">
                                         <figure class="product-image-container">
                                             <a href="product.html" class="product-image">
-                                                <img src="{{asset('')}}assets/images/products/cart/product-2.jpg" alt="product">
+                                                <img src="assets/images/products/cart/product-2.jpg" alt="product">
                                             </a>
                                         </figure>
                                         <div class="product-details">

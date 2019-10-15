@@ -14,13 +14,13 @@
     <meta name="author" content="">
         
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="{{asset('')}}assets/images/icons/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="assets/images/icons/favicon.ico">
     
     <!-- Plugins CSS File -->
-    <link rel="stylesheet" href="{{asset('')}}assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 
     <!-- Main CSS File -->
-    <link rel="stylesheet" href="{{asset('')}}assets/css/style.min.css">
+    <link rel="stylesheet" href="assets/css/style.min.css">
 </head>
 @include('header')
 @yield('content')
